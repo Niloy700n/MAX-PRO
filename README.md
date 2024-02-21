@@ -13,4 +13,4 @@ git clone https://github.com/MR-YEASIN/MAX-PRO
 
 cd MAX-PRO
 
-python max-pro-v6.py
+python max-pro-v7.py
